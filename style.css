@@ -1,0 +1,196 @@
+/* Turn off parallax scrolling for all tablets and phones. Increase/decrease the pixels if needed */
+@media only screen and (max-device-width: 1366px) {
+  .parallax {
+    background-attachment: scroll;
+  }
+}
+
+body {
+  font-family:'Fleur De Leah', cursive;
+  background-color:royalblue;
+	background-image:url('');
+	color: grey;
+       font-size: 21px;
+  
+  
+  
+}
+
+header {
+ color:grey ;
+ background-color:white;
+ background-image:url("");
+  display:flex-center;
+   padding: 60px 0;
+   
+   font-size:21px;
+}
+
+header .row,
+footer .row {
+  color:grey;
+  background-color:none;
+background-image:url('');
+ 
+
+  
+ display: center;
+  align-items: center;
+  color:white;
+  background-color:silver;
+  
+}
+
+h1 {
+  color:grey;
+   
+  height: flex-bottom;
+  font-weight: 16px;
+  margin: 19px;
+  display:center;
+  
+  
+
+nav {
+ background-color:silver;
+ color: black;
+  display:flex-block;
+  justify-content: flex-end;
+	display: center;
+
+  
+
+  
+  
+
+a {
+color: black;
+  padding: 21px ;
+  margin:  21px;
+}
+  
+  a {
+	color: black; text-decoration: blink;
+}
+	a:hover {
+		color:silver;
+	}
+
+.jumbotron {
+  display:center;
+
+  align-items: flex;
+  border-image-outset: 11px ;
+display :center-block;
+
+  background-size:cover;
+  color:black;
+  background-color:silver;
+  height: 11px;
+}
+
+.jumbotron h2 {
+background-image:url('');
+  font-size: 27px;
+  font-weight: 16px;
+  margin: 8px;
+  color:black ;
+ 
+
+ 
+ 
+ 
+}
+
+.jumbotron h3 {
+  Font-size: 16px;
+  margin: 0 0 8px;
+  color:black;
+  background-color:silver;
+  display:center;
+ 
+}
+
+section .row img {
+  color:blue;
+  display: center;
+  
+
+  margin: 1px;
+  width: 1px;
+  
+}
+
+.col-md-6 {
+  color: black;
+  background-color:silver ;
+  margin: 0 0 auto;
+}
+
+.btn.btn-primary {
+  border-radius: 11px;
+  border: 11px;
+  color:black;
+  background-color:black ;
+}
+
+.btn.btn-primary:hover {
+  color:black;
+  background-color: silver;
+	display: center;
+}
+
+.btn-secondary {
+  background-color:silver ;
+  color:yellow;
+  margin: 0 0 0 7px
+}
+.button {
+  display: center;
+  color:silver;
+  }
+  
+.portrait {
+  color:none;
+  
+  width:  0 auto;
+  height: 0 auto;
+}
+
+figure img {
+  color:black;
+  width: 3px;
+  height: 3px;
+  background-color:black;
+
+}
+
+figure {
+  margin-bottom:none;
+  color:white;
+	display:center;
+}
+
+footer {
+  font-size: 7px;
+  padding: 7px 0;
+  color:white;
+  background-color:black;
+
+
+
+
+
+
+footer .col-sm-8 {
+  background-color:black;
+  color:white;
+  display: flex-center;
+  justify-content: flex-end;
+}
+
+footer ul {
+  color:white;
+  background-color:black;
+  list-style: flex;
+}
