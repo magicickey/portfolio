@@ -8,7 +8,7 @@
 body {
   font-family:'Poiret One', cursive;
   background-color:white;
-	background-image:url('');
+	background-image:url('Design%20de%20cha%C3%AEne%20YouTube%202560x1440%20%20px.jpeg');
 	color: black;
        font-size: 21px;
   
@@ -17,9 +17,9 @@ body {
 }
 
 header {
- color:black;
- background-color:white;
- background-image:url("");
+ color:white;
+ background-color:black;
+ background-image:url("Design%20de%20cha%C3%AEne%20YouTube%202560x1440%20%20px.jpeg");
   display:flex-center;
    padding: auto;
    
