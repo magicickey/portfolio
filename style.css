@@ -8,7 +8,7 @@
 body {
   font-family:'Poiret One', cursive;
   background-color:white;
-	background-image:url('Design%20de%20cha%C3%AEne%20YouTube%202560x1440%20%20px.jpeg');
+	background-image:url('White_Texture_Pattern_Abstract_4K_Wallpaper.jpg');
 	color: black;
        font-size: 21px;
   
@@ -19,7 +19,7 @@ body {
 header {
  color:white;
  background-color:none;
- background-image:url("background.png");
+ background-image:url("White_Texture_Pattern_Abstract_4K_Wallpaper.jpg");
   display:flex-center;
    padding: auto;
    
@@ -30,7 +30,7 @@ header .row,
 footer .row {
   color:none;
   background-color:none;
-background-image:url("background.png');
+background-image:url("White_Texture_Pattern_Abstract_4K_Wallpaper.jpg');
  
 
   
