@@ -21,9 +21,9 @@ header {
  background-color:white;
  background-image:url("");
   display:flex-center;
-   padding: 60px 0;
+   padding: auto;
    
-   font-size:21px;
+   font-size:134px;
 }
 
 header .row,
