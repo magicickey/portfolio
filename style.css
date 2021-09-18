@@ -35,7 +35,7 @@ background-image:url('');
 
   
  display: center;
-  align-items: center;
+  align-items: right;
   color:black;
   background-color:white;
   
@@ -46,7 +46,7 @@ h1 {
    
   height: flex-bottom;
   font-weight: 16px;
-  margin: 19px;
+  margin: 30px;
   display:center;
   
   
@@ -137,7 +137,7 @@ section .row img {
 .btn.btn-primary:hover {
   color:black;
   background-color:white;
-	display: center;
+	display:align-center;
 }
 
 .btn-secondary {
@@ -146,7 +146,7 @@ section .row img {
   margin: 0 0 0 11 px
 }
 .button {
-  display: center;
+  display:align-center;
   color:silver;
   }
   
@@ -168,7 +168,7 @@ figure img {
 figure {
   margin-bottom:red;
   color:black;
-	display:center;
+	display:left;
 }
 
 footer {
