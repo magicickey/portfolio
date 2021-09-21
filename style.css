@@ -185,13 +185,13 @@ footer {
 
 footer .col-sm-8 {
   background-color:white;
-  color:black;
+  color:blue;
   display: flex-center;
   justify-content: flex-end;
 }
 
 footer ul {
-  color:black;
+  color:blue;
   background-color:white;
   list-style: flex-wrap;
 }
