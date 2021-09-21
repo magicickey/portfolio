@@ -18,8 +18,8 @@ body {
 
 header {
  color:black;
- background-color:none;
- background-image:url("1d589a53e1_50180926_meteorite-photo-astro-2021.jpg");
+ background-color:white;
+ background-image:url("");
 
   display:flex-center;
    padding: auto;
@@ -29,9 +29,9 @@ header {
 
 header .row,
 footer .row {
-  color:none;
-  background-color:none;
-background-image:url("1d589a53e1_50180926_meteorite-photo-astro-2021.jpg');
+  color:black;
+  background-color:white;
+background-image:url("");
  
 
   
