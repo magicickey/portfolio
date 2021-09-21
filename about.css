@@ -9,7 +9,7 @@
 
 $black:#black;
 body {
-  background-color:$url('Capture%20web_21-9-2021_182933_crello.com.jpeg');
+  background-color:$url('');
 }
 .flex-row {
   display:flex;
