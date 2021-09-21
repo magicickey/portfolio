@@ -27,8 +27,8 @@ header {
    font-size:auto;
 }
 
-header .row,
-footer .row {
+header .row
+ {
   color:black;
   background-color:none;
 background-image:url("Vecteezy_One_Line_Art-Background_ba0221_generated.jpg");
