@@ -1,17 +1,18 @@
 # portfolio
+// index
 ![OIP](https://github.com/totoro65/maldororportfolio/blob/main/OIP.jfif?raw=true)
 ![Dimensions%20personnalis%C3%A9es%20600x500%20px](https://github.com/totoro65/maldororportfolio/blob/main/Dimensions%20personnalis%C3%A9es%20600x500%20px.jpeg?raw=true)
 ![White_Texture_Pattern_Abstract_4K_Wallpaper](https://github.com/totoro65/maldororportfolio/blob/main/White_Texture_Pattern_Abstract_4K_Wallpaper.jpg?raw=true)
 ![9a171101cc_50180927_paysages-photo-astro-2021](https://github.com/totoro65/maldororportfolio/blob/main/9a171101cc_50180927_paysages-photo-astro-2021.jpg?raw=true)
 
 
-
+// about
 ![a1](https://github.com/totoro65/maldororportfolio/blob/main/a1.jpeg?raw=true)
 ![a2](https://github.com/totoro65/maldororportfolio/blob/main/a2.jpeg?raw=true)
 ![a3](https://github.com/totoro65/maldororportfolio/blob/main/a3.jpeg?raw=true)
 ![workzone](https://github.com/totoro65/maldororportfolio/blob/main/workzone.jpeg?raw=true)
 ![Capture%20web_10-8-2021_19454_totoro65.github.io](https://github.com/totoro65/maldororportfolio/blob/main/Capture%20web_10-8-2021_19454_totoro65.github.io.jpeg?raw=true)
-
+![pexels-alice-alinari-2866531](https://github.com/magicickey/portfolio/blob/main/pexels-alice-alinari-2866531.jpg?raw=true)
 
 ![IMG_20210712_135419923_HDR](https://github.com/totoro65/maldororportfolio/blob/main/IMG_20210712_135419923_HDR.jpg?raw=true)
 // HABILLAGE DU SITE
