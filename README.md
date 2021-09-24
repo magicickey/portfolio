@@ -8,7 +8,6 @@
 ![Capture%20web_19-9-2021_163518_www.instagram.com](https://github.com/totoro65/maldororportfolio/blob/main/Capture%20web_19-9-2021_163518_www.instagram.com.jpeg?raw=true)
 ![ruth-abraham-tanabatasday](https://github.com/totoro65/maldororportfolio/blob/main/ruth-abraham-tanabatasday.jpg?raw=true)
 ![photo-1515879218367-8466d910aaa4](https://github.com/totoro65/maldororportfolio/blob/main/photo-1515879218367-8466d910aaa4.jpeg?raw=true)
-![wp1967429](https://github.com/totoro65/maldororportfolio/blob/main/wp1967429.webp?raw=true)
 
 
 ![a1](https://github.com/totoro65/maldororportfolio/blob/main/a1.jpeg?raw=true)
