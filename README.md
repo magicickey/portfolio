@@ -11,7 +11,7 @@
 ![a3](https://github.com/totoro65/maldororportfolio/blob/main/a3.jpeg?raw=true)
 ![workzone](https://github.com/totoro65/maldororportfolio/blob/main/workzone.jpeg?raw=true)
 ![Capture%20web_10-8-2021_19454_totoro65.github.io](https://github.com/totoro65/maldororportfolio/blob/main/Capture%20web_10-8-2021_19454_totoro65.github.io.jpeg?raw=true)
-![Projet](https://github.com/totoro65/maldororportfolio/blob/main/Projet.jpeg?raw=true)
+
 
 ![IMG_20210712_135419923_HDR](https://github.com/totoro65/maldororportfolio/blob/main/IMG_20210712_135419923_HDR.jpg?raw=true)
 // HABILLAGE DU SITE
