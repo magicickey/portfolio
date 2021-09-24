@@ -23,3 +23,4 @@
 ![pexels-madison-inouye-1382393](https://github.com/magicickey/portfolio/blob/main/pexels-madison-inouye-1382393.jpg?raw=true)
 ![pexels-madison-inouye-1831234](https://github.com/magicickey/portfolio/blob/main/pexels-madison-inouye-1831234.jpg?raw=true)
 ![pexels-ibadah-mimpi-4633837](https://github.com/magicickey/portfolio/blob/main/pexels-ibadah-mimpi-4633837.jpg?raw=true)
+![Vecteezy_One_Line_Art-Background_ba0221_generated](https://github.com/magicickey/portfolio/blob/main/Vecteezy_One_Line_Art-Background_ba0221_generated.jpg?raw=true)
