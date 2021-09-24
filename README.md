@@ -19,4 +19,6 @@
 ![Projet](https://github.com/totoro65/maldororportfolio/blob/main/Projet.jpeg?raw=true)
 
 ![IMG_20210712_135419923_HDR](https://github.com/totoro65/maldororportfolio/blob/main/IMG_20210712_135419923_HDR.jpg?raw=true)
+// HABILLAGE DU SITE
 ![pexels-madison-inouye-1382393](https://github.com/magicickey/portfolio/blob/main/pexels-madison-inouye-1382393.jpg?raw=true)
+![pexels-madison-inouye-1831234](https://github.com/magicickey/portfolio/blob/main/pexels-madison-inouye-1831234.jpg?raw=true)
