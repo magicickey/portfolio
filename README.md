@@ -9,7 +9,7 @@
 ![ruth-abraham-tanabatasday](https://github.com/totoro65/maldororportfolio/blob/main/ruth-abraham-tanabatasday.jpg?raw=true)
 ![photo-1515879218367-8466d910aaa4](https://github.com/totoro65/maldororportfolio/blob/main/photo-1515879218367-8466d910aaa4.jpeg?raw=true)
 ![wp1967429](https://github.com/totoro65/maldororportfolio/blob/main/wp1967429.webp?raw=true)
-![starwars_PNG54](https://github.com/totoro65/maldororportfolio/blob/main/starwars_PNG54.png?raw=true)
+
 
 ![a1](https://github.com/totoro65/maldororportfolio/blob/main/a1.jpeg?raw=true)
 ![a2](https://github.com/totoro65/maldororportfolio/blob/main/a2.jpeg?raw=true)
